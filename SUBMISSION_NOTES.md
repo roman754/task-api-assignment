@@ -1,5 +1,8 @@
 # Submission Notes
 
+**Live API:** https://task-api-assignment-0miz.onrender.com  
+**GitHub Repository:** https://github.com/roman754/task-api-assignment
+
 ## Test Coverage
 
 Achieved 98.11% code coverage across 92 test cases:

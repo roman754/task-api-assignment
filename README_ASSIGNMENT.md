@@ -4,6 +4,9 @@
 
 Completed take-home assignment including comprehensive testing, bug fixes, and a new feature implementation.
 
+**Live API:** https://task-api-assignment-0miz.onrender.com  
+**GitHub:** https://github.com/roman754/task-api-assignment
+
 **Test Coverage:** 98.11% (requirement: 80%+)  
 **Total Tests:** 92  
 **Bugs Found:** 3 (1 fixed, 2 documented)
